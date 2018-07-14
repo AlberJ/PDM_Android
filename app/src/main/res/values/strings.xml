@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controle Financeiro</string>
+    <string name="title_activity_form_movimentacao">FormMovimentacaoActivity</string>
+    <string name="title_activity_lista">ListaActivity</string>
+</resources>
